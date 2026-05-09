@@ -1,0 +1,51 @@
+/* xs */
+@media (min-width: 640px) {
+}
+/* sm */
+@media (max-width: 768px) {
+  .container {
+    width: 95%;
+    margin: auto;
+  }
+  .contact .container {
+    width: 95%;
+    margin: auto;
+  }
+  nav {
+    padding: 10px;
+  }
+  nav .nav-links {
+    display: none;
+  }
+  .home-right img {
+    padding: 30px;
+  }
+  .home {
+  height: auto;
+    background-color: #EEEEEE;
+}
+.contact .container .details .details-item .inner{
+    margin: 10px 0;
+}
+.end .container div {
+    padding: 20px 0px; 
+}
+.end .container .two h4{
+    margin-top: 20px;
+}
+
+.end .container .two .second {
+    margin: 0px 0;
+    padding: 0;
+}
+}
+/* md */
+@media (min-width: 1024px) {
+}
+/* lg */
+@media (min-width: 1280px) {
+}
+/* xl */
+@media (min-width: 1536px) {
+}
+/*  */
